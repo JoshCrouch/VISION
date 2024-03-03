@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MCU + SENSORS.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU + SENSORS.SchDoc|FileName=POWER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU + SENSORS.SchDoc|FileName=RF.SchDoc|SheetNumber=3
