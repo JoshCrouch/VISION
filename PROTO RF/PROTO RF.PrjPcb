@@ -112,126 +112,114 @@ GenerateClassCluster=0
 DocumentUniqueId=AWJBNDRD
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PROTO RF\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for PROTO RF\PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PROTO RF\PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for PROTO RF\PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for PROTO RF\PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PROTO RF\PCB.G1
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for PROTO RF\PCB.G2
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for PROTO RF\PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PROTO RF\PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PROTO RF\PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PROTO RF\PCB.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for PROTO RF\PCB.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for PROTO RF\PCB.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for PROTO RF\PCB.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for PROTO RF\PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for PROTO RF\PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for PROTO RF\PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for PROTO RF\PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for PROTO RF\PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for PROTO RF\PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for PROTO RF\PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for PROTO RF\PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for PROTO RF\PCB.RUL
 DItemRevisionGUID=
 
