@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CheatSheetCategoryBasedSelectionDialog">
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_SELECTED_CHEATSHEET_ID" value="org.eclipse.cdt-doc.cheatsheet.cdt_basic"/>
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_RADIO_SELECTION" value="1"/>
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_CHEATSHEET_FILENAME" value=""/>
+		<item key="CheatSheetCategoryBasedSelectionDialog.STORE_CHEATSHEET_URL" value=""/>
+		<item key="DIALOG_X_ORIGIN" value="1118"/>
+		<item key="DIALOG_Y_ORIGIN" value="176"/>
+		<item key="DIALOG_WIDTH" value="324"/>
+		<item key="DIALOG_HEIGHT" value="546"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		<list key="CheatSheetCategoryBasedSelectionDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="C/C++ Development"/>
+		</list>
+	</section>
+</section>
